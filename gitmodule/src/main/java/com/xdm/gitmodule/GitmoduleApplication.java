@@ -8,6 +8,7 @@ public class GitmoduleApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GitmoduleApplication.class, args);
+        System.out.println(123);
     }
 
 }
